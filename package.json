@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectS495/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectS495/NodeJS/issues"
+  },
+  "homepage": "https://github.com/projectS495/NodeJS#readme",
+  "dependencies": {
+    "mongodb": "^3.1.8",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8",
+    "randomstring": "^1.1.5"
+  }
+}
